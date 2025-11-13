@@ -13,3 +13,8 @@ c)GitHub Secrets: Adding DOCKERHUB_USERNAME and DOCKERHUB_TOKEN as repository se
 d)Workflow Definition: Writting a GitHub Actions workflow (ci-cd.yml) to automate build, test, and push steps.
 e)Triggering: Configure the workflow to run on commits to the main branch.
 f)Verification: Check GitHub Actions logs, confirm Docker Hub image tags, and run the container locally to validate.
+
+For Triggering Github actions workflow:
+Here i am adding line 
+
+"Trigger CI/CD run"
