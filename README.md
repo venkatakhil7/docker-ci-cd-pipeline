@@ -2,7 +2,7 @@
 Build–Test–Push CI/CD using Docker and GitHub Actions
 
 # Notes
-Triggering CI/CD workflow again
+Triggering CI/CD workflow again for second time
 
 
 
