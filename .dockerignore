@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+.git
+.github
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+=======
+.git
+.github
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+>>>>>>> e1b55e2a9e097e267ffa76d347bbadf89440883a
