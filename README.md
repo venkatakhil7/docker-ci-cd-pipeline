@@ -30,10 +30,9 @@ The objective of this assignment was to automate a build–test–push pipeline 
     •Verified successful push in the workflow logs.
 
   f)Verification
-    •Checked Docker Hub repository:https://hub.docker.com/repository/docker/akhilvenkat/docker-ci-cd-  pipeline/general
+    •Checked Docker Hub repository:https://hub.docker.com/repository/docker/akhilvenkat/docker-ci-cd-pipeline/general
     •Confirmed the image was pushed 18 hours ago with correct tags (build-5 and latest).
     •Captured screenshots of the Actions tab (successful run) and Docker Hub page (image tags).
-      Below i am attaching screenshots 
-
+   
 
 
