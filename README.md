@@ -20,6 +20,9 @@ Verification:
 •Checked Docker Hub repository:https://hub.docker.com/repository/docker/akhilvenkat/docker-ci-cd-pipeline/general
 •Confirmed the image was pushed 18 hours ago with correct tags (build-5 and latest).
 •Captured screenshots of the Actions tab (successful run) and Docker Hub page (image tags).
+
+<img width="960" height="512" alt="Image" src="https://github.com/user-attachments/assets/fd012f66-2a7a-4c9d-b955-353f3fa76e8b" />
+
    
 
 
