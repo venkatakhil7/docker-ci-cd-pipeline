@@ -15,7 +15,6 @@ HOW I APPROACHED:
 •Used docker/build-push-action@v5 with push: true.
 •Tagged images with both latest and build-${{ github.run_number }}.
 •Verified successful push in the workflow logs.
-<img width="960" height="511" alt="all cicd Workflows including failed ones" src="https://github.com/user-attachments/assets/39cce931-c8a2-40b3-b77d-b29843083eb7" />
 
 Verification:
 •Checked Docker Hub repository:https://hub.docker.com/repository/docker/akhilvenkat/docker-ci-cd-pipeline/general
@@ -24,7 +23,11 @@ Verification:
 
 <img width="960" height="511" alt="all cicd Workflows including failed ones" src="https://github.com/user-attachments/assets/39cce931-c8a2-40b3-b77d-b29843083eb7" />
 <img width="960" height="512" alt="Image" src="https://github.com/user-attachments/assets/fd012f66-2a7a-4c9d-b955-353f3fa76e8b" />
+<img width="960" height="514" alt="all-jobs-run-succesfully" src="https://github.com/user-attachments/assets/4332e203-8d7a-4cbe-aa1b-38d513c5675f" />
+<img width="960" height="517" alt="all-jobs-run-succesfully2" src="https://github.com/user-attachments/assets/a56d892c-e929-4063-840d-e43c112a67d9" />
 
-   
+<img width="960" height="515" alt="Image_pushed_to_dockerhub" src="https://github.com/user-attachments/assets/afbf4e7c-92a2-4f9d-9b3c-41cdd6e878b9" />
+
+<img width="960" height="509" alt="Image_with_build_and_latest_tag" src="https://github.com/user-attachments/assets/26747415-efce-4b03-9a26-ce25644cdd5c" />
 
 
