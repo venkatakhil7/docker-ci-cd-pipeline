@@ -9,6 +9,7 @@ c)Run automated tests in a containerized environment
 d)Tag images with both latest and build number
 
 2) HOW I APPROACHED:
+   
 a)Repository Setup
 •Created a GitHub repository docker-ci-cd-pipeline.
 •Added a Dockerfile and a simple test script (tests/test_app.sh).
